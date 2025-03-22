@@ -2,6 +2,8 @@
 
 This project simulates a Looking-For-Group (LFG) system for a dungeon-based multiplayer game. It models tanks, healers, and DPS players forming parties to enter dungeon instances.
 
+GitHub Repository: https://github.com/dlmbaccay/stdiscm_pset2
+
 ## Requirements
 
 - OpenJDK 17 or later
