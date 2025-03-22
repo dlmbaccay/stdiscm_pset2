@@ -66,6 +66,7 @@ t1=5
 # Maximum time before an instance is finished (seconds)
 t2=15
 ```
+- When a config fails to parse, the program will use the default values.
 
 ## Output
 
