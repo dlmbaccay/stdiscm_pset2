@@ -1,0 +1,17 @@
+# Maximum number of concurrent instances
+n=3
+
+# Number of tank players in the queue
+t=5
+
+# Number of healer players in the queue
+h=5
+
+# Number of DPS players in the queue
+d=15
+
+# Minimum time before an instance is finished (seconds)
+t1=5
+
+# Maximum time before an instance is finished (seconds)
+t2=15
